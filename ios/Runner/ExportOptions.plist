@@ -8,7 +8,7 @@ http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <key>manageAppVersionAndBuildNumber</key>
 <true/>
 <key>method</key>
-<string>app-store</string>
+<string>app-store-connect</string>
 <key>provisioningProfiles</key>
 <dict>
 <key>com.scientificgames.cicdtestapp</key>
