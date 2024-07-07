@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+
 jobs:
   build:
     runs-on: self-hosted
@@ -39,9 +40,10 @@ jobs:
           -t ios \
           --apiKey 53CY77L5AS \
           --apiIssuer 69a6de70-a739-47e3-e053-5b8c7c11a4d1
-
-     - name: Upload Artifacts
-       uses: actions/upload-artifact@v3
-       with:
+          
+          
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v3
+        with:
          name: ios-release
          path: build/ios/archive/ipa
