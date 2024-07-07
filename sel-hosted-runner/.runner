@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "MN0447X3XR3",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus4.actions.githubusercontent.com/RgiUhf5NuUdu0voY6Aqy9yqvvjPZYy9C7T5Abob79KIjQF1Z46/",
+  "gitHubUrl": "https://github.com/adinath-nikam/CI_CD_FLUTTER_IOS_SELF_HOSTED_RUNER",
+  "workFolder": "_work"
+}
